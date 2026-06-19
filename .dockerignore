@@ -1,0 +1,54 @@
+# Dependencies
+node_modules
+.npm
+
+# Next.js
+.next
+out
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Environment files (never bake secrets into image)
+#.env
+#.env.local
+#.env.*.local
+
+# Development
+*.log
+npm-debug.log*
+.DS_Store
+*.swp
+
+# Testing
+coverage
+__tests__
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Documentation
+README.md
+docs/
+
+# CI/CD
+.github/
+cloudbuild.yaml
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript source maps (not needed in prod)
+#tsconfig.json
+#tsconfig.*.json
