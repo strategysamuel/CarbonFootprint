@@ -2,6 +2,8 @@
 
 > **See the world you create through your everyday choices.**
 
+**Live Demo:** [https://carbon-footprint-231604223102.asia-south1.run.app](https://carbon-footprint-231604223102.asia-south1.run.app)
+
 CarbonMirror is a production-ready carbon footprint awareness platform that drives genuine behavioural change through emotional engagement, behavioural science, AI coaching, and community action — built on Google's full cloud-native stack.
 
 ---
